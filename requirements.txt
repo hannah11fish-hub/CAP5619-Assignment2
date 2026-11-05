@@ -1,0 +1,4 @@
+google-genai
+requests
+beautifulsoup4
+pydantic>=2
