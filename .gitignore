@@ -218,3 +218,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets
+.env
+.env.*
+
+# Local Python environment
+.venv/
+venv/
+
+# Local IDE settings
+.idea/
+.run/
+
+# Temporary Python files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Downloaded documents and model-response cache
+cache/
+
+# New automated-run output; submitted results are in results/
+output_submission_run/
