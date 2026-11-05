@@ -1,0 +1,131 @@
+company_name,stock_name,filing_time,new_product,product_description
+Apple Inc.,AAPL,2026-07-30T20:30:28.000Z,Siri AI,A new artificial intelligence software feature introduced by Apple.
+MICROSOFT CORP,MSFT,2026-10-28T20:11:03.000Z,Azure AI Foundry,"A unified platform for developers to design, customize, and manage AI applications and agents."
+MICROSOFT CORP,MSFT,2026-10-28T20:11:03.000Z,Agent 365,A security offering included within the Microsoft 365 commercial cloud segment.
+MICROSOFT CORP,MSFT,2026-10-28T20:11:03.000Z,Security Copilot,A security offering included in the Microsoft 365 commercial cloud revenue growth metric.
+INTEL CORP,INTC,2026-10-29T20:08:53.000Z,Intel Core Ultra Series 3,"New client processors powering the first Googlebook devices from Acer, ASUS, and Lenovo."
+INTEL CORP,INTC,2026-10-29T20:08:53.000Z,Intel 14A,A new process design kit (PDK) released by Intel Foundry in October 2026.
+AMAZON COM INC,AMZN,2026-10-29T20:05:27.000Z,Bedrock Managed Agents,A managed service powered by OpenAI that enables enterprises to build and deploy production-ready AI agents more quickly.
+AMAZON COM INC,AMZN,2026-10-29T20:05:27.000Z,Strands harness,"A fully assembled, state-of-the-art agent harness that allows developers to build custom agents with a single line of code."
+AMAZON COM INC,AMZN,2026-10-29T20:05:27.000Z,Strands Box,An open source sandbox that allows developers to define rules for agent behavior and access to prevent unintended harm.
+AMAZON COM INC,AMZN,2026-10-29T20:05:27.000Z,Lambda Web Functions,"A feature allowing developers to run scalable, responsive web applications on Lambda using popular web frameworks."
+AMAZON COM INC,AMZN,2026-10-29T20:05:27.000Z,AWS Continuum,"An AI-powered security service that automatically discovers, prioritizes, validates, and remediates software vulnerabilities."
+AMAZON COM INC,AMZN,2026-10-29T20:05:27.000Z,Amazon Ads Agent,"An AI-first platform for advertisers that provides insights, answers, and the ability to take action on their behalf."
+AMAZON COM INC,AMZN,2026-10-29T20:05:27.000Z,Full-Funnel Campaigns,"A feature within Amazon Ads Agent that integrates sponsored ads, display, video, and streaming TV into a single campaign."
+Apple Inc.,AAPL,2026-04-30T20:30:41.000Z,iPhone 17e,A new model added to the iPhone 17 lineup.
+Apple Inc.,AAPL,2026-04-30T20:30:41.000Z,M4-powered iPad Air,A new version of the iPad Air featuring the M4 processor.
+Apple Inc.,AAPL,2026-04-30T20:30:41.000Z,MacBook Neo,A new laptop model launched by Apple.
+"Salesforce, Inc.",CRM,2026-09-17T01:02:48.000Z,Slack Code,A new feature for the Slack platform designed to assist with coding tasks.
+ADOBE INC.,ADBE,2026-09-08T20:38:46.000Z,CX Enterprise Coworker,A new product innovation introduced to the Adobe Customer Experience Orchestration portfolio.
+NVIDIA CORP,NVDA,2026-08-17T12:41:33.000Z,DSX AI factory platform,A full-stack AI factory platform designed for deployment in large-scale data center environments.
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,Xeon 6+,"A next-generation data center CPU designed for sustained performance under real-world power constraints, built on the Intel 18A process node."
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,OpenVINO Physical AI,"An open-source framework designed to assist developers in deploying robotics models across vision, language, reasoning, and motion-control workloads."
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,Intel Arc G-Series processors,A new family of processors specifically engineered for next-generation handheld gaming systems.
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,Ethernet E835,"A networking portfolio scaling from 10GbE to 200GbE for use across cloud, AI, enterprise, edge, and telco infrastructure."
+INTEL CORP,INTC,2026-07-23T20:09:00.000Z,Fortinet Security Processor 6,"A security processor developed through a collaboration with Fortinet using Intel's advanced design, packaging, and manufacturing capabilities."
+ORACLE CORP,ORCL,2026-09-10T20:16:50.000Z,Oracle AI Data Platform,A platform that automates the creation of Enterprise Ontologies to help enterprises use AI models to reason on private data and automate business processes.
+ORACLE CORP,ORCL,2026-09-10T20:16:50.000Z,Oracles AI Health Care Management and Electronic Health Records system,An all-new 100% agentic system consisting of specialized AI agents for various medical specialties to assist professionals in diagnosing and treating patients.
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2026-07-22T20:10:24.000Z,Lightwell,A new capability designed to address open source security vulnerabilities by leveraging IBM and Red Hat's resources.
+ORACLE CORP,ORCL,2026-06-10T20:13:46.000Z,AI clinical trial system,A new system designed to enable regulators to rapidly review and approve clinical trial test results.
+"Salesforce, Inc.",CRM,2026-08-26T20:03:53.000Z,Summer 2026 Product Release,A collection of new innovations and product release highlights for the Salesforce platform.
+"Salesforce, Inc.",CRM,2026-08-26T20:03:53.000Z,Agentforce,A suite of AI-driven agentic enterprise tools and services.
+"Salesforce, Inc.",CRM,2026-08-26T20:03:53.000Z,Slackbot,An AI offering included in Agentforce ARR starting in Q2 FY27.
+"Salesforce, Inc.",CRM,2026-08-26T20:03:53.000Z,Headless 360,An AI offering included in Agentforce ARR starting in Q2 FY27.
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Graviton5,A new processor offering up to 30 to 40% better price-performance than comparable instances and 25% better compute performance than its predecessor.
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,AWS Continuum,"A tool that discovers, prioritizes, validates, and remediates code vulnerabilities using frontier models and business context."
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Lambda MicroVMs,A new flavor of AWS Lambda serverless compute service offering instant start times and a stateful runtime for long-running agent loops.
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,AWS Secret Cloud for Industry,A cloud platform designed to provide defense contractors with a faster and more secure path to classified innovation.
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Alexa for Shopping,An agentic AI shopping assistant combining Rufus and Alexa+ to offer personalized recommendations and automated shopping features.
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Amazon Supply Chain Services,"A service allowing businesses to move, store, and deliver products using Amazon's existing supply chain infrastructure."
+INTERNATIONAL BUSINESS MACHINES CORP,IBM,2026-07-14T11:01:52.000Z,Lightwell,A $5 billion enterprise clearinghouse platform designed to address open source software vulnerabilities using frontier AI capabilities.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Vera Rubin,"A new platform for agentic AI, including the Vera CPU and BlueField-4 STX storage infrastructure."
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Dynamo 1.0,Open source software designed to boost generative and agentic inference on Blackwell GPUs.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA NemoClaw,A new tool for the OpenClaw agent platform.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA OpenShell,A tool providing privacy and security controls for autonomous AI agents.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Agent Toolkit,An open source platform for building autonomous enterprise AI agents.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA RTX PRO 4500 Blackwell Server Edition GPU,A new server-grade GPU model based on the Blackwell architecture.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA DLSS 4.5 Dynamic Multi Frame Generation,A new version of NVIDIA's DLSS graphics technology.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,DLSS 5,The next generation of DLSS 3D-guided neural rendering model.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Alpamayo 1.5,An open model designed for autonomous driving systems.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Halos OS,A unified safety architecture for AI-driven vehicles.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Cosmos,New model technology for AI applications.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,NVIDIA Isaac GR00T N,A new model for robotics and physical AI applications.
+NVIDIA CORP,NVDA,2026-05-20T20:21:19.000Z,Blackwell 300,A new line of computing products for data centers that contributed to record revenue growth.
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel  Xeon  600 processors,New processors designed for workstation use.
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel  Core  Ultra 200S Plus,New processors for desktop computers.
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel  Core  Ultra 200HX Plus,New processors for mobile computers.
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel  Core  Series 2 processors,New processors for health and life sciences edge computing.
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel  Core  Ultra Series 3 processors,New processors featuring Intel vPro technology.
+INTEL CORP,INTC,2026-04-23T20:07:02.000Z,Intel  Core Series 3 processors,New processors bringing Intel 18A and modern features to the mainstream.
+ORACLE CORP,ORCL,2026-03-10T20:12:51.000Z,AI Code Generation,"A new technology that enables the company to build more software in less time with fewer people, improving the efficiency of SaaS application development."
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,iPhone 17,A new model in the iPhone smartphone lineup.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,iPhone 17 Pro,A new professional-grade model in the iPhone smartphone lineup.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,Pro Max,A new high-end model in the iPhone smartphone lineup.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,iPhone Air,A new model in the iPhone smartphone lineup.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,AirPods Pro 3,The third generation of Apple's wireless earbuds.
+Apple Inc.,AAPL,2025-10-30T20:30:35.000Z,Apple Watch,An updated lineup of the Apple Watch wearable device.
+"Salesforce, Inc.",CRM,2026-05-27T20:18:26.000Z,Agentforce One Edition,A premium SKU anchored in Sales and Service that provides agentic capabilities for business applications.
+"Salesforce, Inc.",CRM,2026-05-27T20:18:26.000Z,Agentforce for Apps,A premium SKU anchored in Sales and Service that provides agentic capabilities for business applications.
+"CISCO SYSTEMS, INC.",CSCO,2025-11-12T21:15:30.000Z,Aura Asset Intelligence,An asset and risk intelligence (ARI) solution acquired by Cisco.
+"CISCO SYSTEMS, INC.",CSCO,2025-11-12T21:15:30.000Z,WiFi 7,Next-generation wireless networking products that are ramping faster than prior product launches.
+Apple Inc.,AAPL,2025-07-31T20:30:25.000Z,Apple Intelligence,A suite of artificial intelligence features announced by Apple for its platforms.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Amazon Quick,"A desktop application that queries email, calendar, Slack, and local files to summarize information, make recommendations, and create agents."
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Connect Decisions,A new capability for Amazon Connect designed to help organizations transform supply chain operations.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Connect Talent,A new capability for Amazon Connect designed to help organizations transform hiring processes.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Connect Customer,A new capability for Amazon Connect designed to help organizations transform customer experience.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Connect Health,A new capability for Amazon Connect designed to help organizations transform health care operations.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,AWS Agent Registry,"A tool to help customers discover, share, and reuse AI agents, tools, and agent skills across an enterprise."
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Claude Mythos Preview,A new class of AI model for cybersecurity and vulnerability detection available in Amazon Bedrock.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Claude Opus 4.7,An AI model for coding and professional work in Amazon Bedrock with enhanced privacy and throughput.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Amazon Bio Discovery,An agentic AI application designed to accelerate drug discovery for scientists.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Amazon Now,An ultra-fast delivery service providing items in 30 minutes or less.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Health AI,A 24/7 AI-powered personal health agent on the Amazon app that provides health insights and guidance.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,Creative Agent,"An agentic AI solution for advertisers to research, brainstorm, and generate ad campaigns."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Rubin,A new platform comprising six chips designed to deliver up to a 10x reduction in inference token cost compared to the Blackwell platform.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Inference Context Memory Storage Platform,A new class of AI-native storage infrastructure powered by the NVIDIA BlueField-4 data processor.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Nemotron 3,"A family of open models, data, and libraries designed to power transparent, efficient, and specialized agentic AI development."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Earth-2,A family of open models and tools for AI weather forecasting.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA DLSS 4.5,An update to the DLSS technology delivering AI-powered advances in graphics quality.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA G-SYNC Pulsar,A gaming display technology designed to provide motion clarity in esports.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA RTX PRO 5000 72GB Blackwell GPU,A GPU designed to power larger models and agentic workflows.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Alpamayo,"A family of open AI models, simulation tools, and datasets for autonomous vehicle development."
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Cosmos,Open models and frameworks for physical AI.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVIDIA Isaac GR00T,Open models and frameworks for physical AI.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,NVLink,A compute fabric technology designed for high-performance computing systems.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,GB200,A new computing system utilizing NVLink compute fabric.
+NVIDIA CORP,NVDA,2026-02-25T21:31:25.000Z,GB300,A new computing system utilizing NVLink compute fabric.
+"Salesforce, Inc.",CRM,2026-03-12T20:32:21.000Z,Agentforce,Agentforce is a new AI-driven service and product feature offering from Salesforce.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Amazon Leo,"A low Earth orbit satellite network designed to provide high-speed internet connectivity and integrate with AWS for data storage, analytics, and AI."
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Same Day Fulfillment Centers,A streamlined fulfillment center format designed to carry top SKUs and enable same-day delivery for customers.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Amazon Now,"An ultra-fast delivery service providing thousands of items within 20 minutes, leveraging micro-fulfillment centers."
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Daily Shop,"A smaller format grocery store serving quick, frequent grocery missions in city neighborhoods."
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Strands,A tool for agent-building within the AWS AI ecosystem.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,AgentCore,A scalable and secure environment for building AI agents.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Kiro,A turnkey agent designed for coding and software tasks.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Transform,A turnkey agent designed for software migrations and knowledge worker tasks.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Quick,A turnkey agent designed for knowledge worker tasks.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Trainium3,A custom AI silicon chip that is 30-40% more price-performant than the previous version.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Mantle,A new inference engine architecture developed for the Amazon Bedrock service.
+AMAZON COM INC,AMZN,2026-04-08T22:02:20.000Z,Alexa+,A redesigned and more intelligent version of the Alexa personal assistant.
+INTEL CORP,INTC,2026-01-22T21:10:56.000Z,Intel Core Ultra Series 3,"A new processor family built on the Intel 18A process technology, designed for AI PC platforms across various device types."
+INTEL CORP,INTC,2026-01-22T21:10:56.000Z,Cisco Unified Edge,"An integrated platform for distributed AI workloads developed in collaboration with Cisco, powered by Intel Xeon 6 SoC."
+Apple Inc.,AAPL,2025-05-01T20:30:21.000Z,iPhone 16e,A new addition to the Apple smartphone lineup.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA RTX PRO 6000 Blackwell Server Edition GPU,"A new GPU designed for enterprise servers, adopted by major companies like Disney and SAP."
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA Spectrum-XGS Ethernet,A new networking solution designed to connect distributed data centers for giga-scale AI.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA GeForce RTX 5060,A new Blackwell-powered GPU for gaming and AI PCs.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA DLSS 4,New AI-driven graphics technology for gaming and applications.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA RTX PRO 4000 SFF Edition,A new professional visualization GPU.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,RTX PRO 2000 Blackwell,A new professional visualization GPU.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA Jetson AGX Thor,New AI supercomputers designed for robotics applications.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA Halos,A new full-stack safety platform for robotic development.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA Cosmos,New world foundation models for robotics development.
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,Blackwell Ultra,A new version of the Blackwell architecture designed for accelerated computing.
+AMAZON COM INC,AMZN,2026-04-29T20:18:55.000Z,NBA SoFi Tournament,Exclusive streaming rights for the NBA SoFi tournament on Prime Video
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,OpenAI's GPT-5.6,Foundation model added to Amazon Bedrock
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Anthropic' Claude Opus 5,Foundation model added to Amazon Bedrock
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Google DeepMind's Gemma 4,Foundation model added to Amazon Bedrock
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,SpaceXAI's Grok 4.3,Foundation model added to Amazon Bedrock
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Bedrock AgentCore Payments,Allows agents to execute transactions autonomously
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Bedrock AgentCore Web Search,Grounds agents' knowledge without having to leave AWS
+AMAZON COM INC,AMZN,2026-07-30T20:06:23.000Z,Bedrock AgentCore Harness,Further speeds how fast customers can stitch together all infrastructure needed for agents
+NVIDIA CORP,NVDA,2025-08-27T20:22:14.000Z,NVIDIA Omniverse,Libraries and software development kits to accelerat physical AI development
