@@ -76,7 +76,7 @@ No API key is included in this repository.
 ## Running the code
 
 ```bash
-python Assignment2_submission.py
+python Assignment2.py
 ```
 
 The script targets 150 successfully processed filings.
